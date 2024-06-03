@@ -6,6 +6,9 @@ r.png)
 ## Descrição
 Um jogo de RPG focado na historia do personagem principal, Nicholas é o principe de EverHart, Sua jornada começa quando ele descobre que seu pai (O Rei) est muito doente e um antigo amigo de seu pai, o bruxo Lucius oferece a solução para ele, enfrentar os 4 reinos elementais e coletar o elixir elemental de cada reino, assim formando o elixir da vida para curar o rei. Assim o principe Nicholas vai em busca dos elixis com ajuda do bruxo Lucius.
 
+## Detalhes
+Jogo 2D, Top-Down, pixel art, Aventura, RPG, 
+
 ## Demo
 Se possível, adicione um gif ou vídeo curto mostrando o jogo em ação.
 ![Demo do Jogo](caminho/para/demo.gif)
@@ -25,9 +28,6 @@ Se possível, adicione um gif ou vídeo curto mostrando o jogo em ação.
 ## Capturas de Tela
 ![Tela 1](caminho/para/tela1.png)
 ![Tela 2](caminho/para/tela2.png)
-
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 Dhominy Murillo - contact.dhominy@gmail.com
